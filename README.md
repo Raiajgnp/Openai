@@ -20,5 +20,5 @@ Cost: OpenAI's API usage incurs costs based on the number of tokens processed.
 ## 📢 Disclaimer
 This project is a demonstration of OpenAI Codex's capabilities. It is not affiliated with OpenAI and does not include a functional API key by default. The user is responsible for obtaining and managing their API key to enable functionality.
 
-## 📢 Disclaimer
+## 🙏 Credits
 This project was created by following a tutorial and serves as a learning experience. Special thanks to the original tutorial creator for their guidance and resources. If you are the tutorial author and want to be credited specifically, feel free to let me know!
